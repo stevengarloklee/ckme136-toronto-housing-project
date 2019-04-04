@@ -1,0 +1,108 @@
+listing_url                         object
+listing_id                           int64
+extras_fridge                      float64
+extras_stove                       float64
+extras_stainless_steel             float64
+extras_pool                        float64
+extras_gym                         float64
+extras_storage                     float64
+extras_locker                      float64
+extras_gas                         float64
+extras_dishwasher                  float64
+features_view                      float64
+features_park                      float64
+features_public_transit            float64
+features_basementbrick             float64
+features_concrete_exterior         float64
+features_hospital                  float64
+features_library                   float64
+postal_code_principal_component    float64
+community_principal_component      float64
+1 1/2 Storey                       float64
+2 1/2 Storey                       float64
+2-Storey                           float64
+3-Storey                           float64
+Apartment                          float64
+Bachelor/Studio                    float64
+Backsplit 3                        float64
+Backsplit 4                        float64
+Backsplit 5                        float64
+Bungaloft                          float64
+Bungalow                           float64
+Bungalow-Raised                    float64
+Loft                               float64
+Multi-Level                        float64
+Sidesplit 3                        float64
+Sidesplit 4                        float64
+Sidesplit 5                        float64
+Stacked Townhse                    float64
+OFFICE                                bool
+FAMILY ROOM                           bool
+DINING ROOM                           bool
+DEN                                   bool
+REC                                   bool
+FOYER                                 bool
+2ND BEDROOM                           bool
+BATHROOM                              bool
+BATHROOMS                             bool
+LIBRARY                               bool
+EXERCISE                              bool
+KITCHEN                               bool
+LIVING ROOM                           bool
+MASTER BEDROOM                        bool
+STUDY                                 bool
+4TH BEDROOM                           bool
+3RD BEDROOM                           bool
+OTHER                                 bool
+5TH BEDROOM                           bool
+SUNROOM                               bool
+GREAT ROOM                            bool
+LAUNDRY                               bool
+SITTING                               bool
+SOLARIUM                              bool
+LOCKER                                bool
+BEDROOM                               bool
+BREAKFAST                             bool
+MEDIA/ENT                             bool
+UTILITY                               bool
+comparable_sold_price_1_int_log    float64
+comparable_sold_price_2_int_log    float64
+comparable_sold_price_3_int_log    float64
+comparable_sold_price_4_int_log    float64
+comparable_sold_price_5_int_log    float64
+main_rooms_log                     float64
+additional_rooms_log               float64
+total_rooms_log                    float64
+parking_spaces_log                 float64
+main_kitchen_log                   float64
+additional_kitchen_log             float64
+total_kitchens_log                 float64
+listing_description_length_log     float64
+UTILITY sqft_log                   float64
+MEDIA/ENT sqft_log                 float64
+BREAKFAST sqft_log                 float64
+BEDROOM sqft_log                   float64
+LOCKER sqft_log                    float64
+SOLARIUM sqft_log                  float64
+SITTING sqft_log                   float64
+LAUNDRY sqft_log                   float64
+GREAT ROOM sqft_log                float64
+SUNROOM sqft_log                   float64
+5TH BEDROOM sqft_log               float64
+OTHER sqft_log                     float64
+3RD BEDROOM sqft_log               float64
+4TH BEDROOM sqft_log               float64
+STUDY sqft_log                     float64
+MASTER BEDROOM sqft_log            float64
+LIVING ROOM sqft_log               float64
+KITCHEN sqft_log                   float64
+EXERCISE sqft_log                  float64
+LIBRARY sqft_log                   float64
+2ND BEDROOM sqft_log               float64
+FOYER sqft_log                     float64
+REC sqft_log                       float64
+DEN sqft_log                       float64
+DINING ROOM sqft_log               float64
+FAMILY ROOM sqft_log               float64
+OFFICE sqft_log                    float64
+total_room_sqft_log                float64

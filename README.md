@@ -1,4 +1,4 @@
-# ckme136-toronto-housing-capstone-project
+# CKME136 Toronto Property Price Prediction
 
 Choosing a property to purchase in Toronto is a complex decision that many people will face throughout their lives.  This is a very difficult decision for several reasons:
 

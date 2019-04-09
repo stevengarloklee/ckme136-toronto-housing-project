@@ -11,3 +11,5 @@ To solve this problem for fellow Torontonians I am proposing a Toronto property 
 1.	A data pipeline to extract Toronto real estate data and most importantly, selling price data that is not readily available
 2.	Descriptive analytics on the Toronto real estate environment to better inform buyers and sellers
 3.	A regression model that will accurately predict Toronto house listing prices to inform buyers about favourable prices and help sellers to set their own selling prices
+
+Presentation: https://docs.google.com/presentation/d/1qUWKg_mF1omgBoLu-jTUq8RhD_h0jhEE_vjtSBfLj1U/edit#slide=id.g559d08e81c_1_242
